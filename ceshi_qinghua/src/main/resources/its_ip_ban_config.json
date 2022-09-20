@@ -1,0 +1,6 @@
+{
+  "token_url": "http://localhost:8080/api/v2/auth/get-access-token",
+  "ip_ban_url": "http://localhost:8081/api/tsinghua/user/status",
+  "app_id": "",
+  "app_secret": ""
+}
